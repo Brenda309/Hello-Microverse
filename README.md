@@ -15,17 +15,22 @@
 
 
 To get a local copy up and running follow these simple example steps.
+Go to "https://github.com/Brenda309"
+choose a repository(hello-microverse)
+clone the repository 
 
-### Prerequisites: Basic knowldge on Git and GitHub
+### Prerequisites
+Basic knowldge on Git and GitHub
 
-### Install: Install VS code and version control(Git)
+### Install
+Install VS code and version control(Git)
 
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Brenda Wohogora**
 
 - GitHub: [Brenda](https://github.com/githubhandle)
 
