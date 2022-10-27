@@ -18,7 +18,7 @@ To get a local copy up and running follow these simple example steps.
 Go to "https://github.com/Brenda309"
 1. choose a repository(hello-microverse)
 2. Click on repositories
-3. Choose repository "Personal-pertifolio" or click to "https://github.com/Brenda309/Personal-portfolio"
+3. Choose repository "Personal-pertifolio" or click to "https://github.com/Brenda309/Hello-Microverse"
 4. Then clone the repository to your local machine by using the following steps:
      1. From repository click on code button and copy clone cammand(Kindly make sure you choose ssh format)
      2. From your terminal type "git clone" command line
